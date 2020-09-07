@@ -1,0 +1,3 @@
+export const SAVE_STUDENT = "SAVE_STUDENT";
+export const HANDLE_AUTH = "HANDLE_AUTH";
+export const SHOW_STUDENTS = "SHOW_STUDENTS";
